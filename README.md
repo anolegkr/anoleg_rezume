@@ -25,7 +25,7 @@ WhatsApp: +79291981988
 anolegkr@gmail.com  
 |||||||
 |:---|:---|:---|:---|:---|:---|
-| [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/anolegkr) | [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/anolegkr) | [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anolegkr) | [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://facebook.com/anolegkr) | [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=1195F5)](https://linkedin.com/in/an-oleg/) | [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.com/users/anolegkr) 
+| [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/anolegkr) | [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/anolegkr) | [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anolegkr) | [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://facebook.com/anolegkr) | [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.com/users/anolegkr) 
 
 Ключевые навыки:
 
