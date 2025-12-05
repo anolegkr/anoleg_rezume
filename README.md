@@ -8,7 +8,7 @@
   Тут будет фото
 </div>
 
-![QA инженер / Python разработчик](https://img.shields.io/badge/-QA_инженер_/Python разработчик-090909?style=for-the-badge&logoColor=47C5FB)
+![QA инженер / Python разработчик](https://img.shields.io/badge/-QA_инженер_/Python_разработчик-090909?style=for-the-badge&logoColor=47C5FB)
 
 Ан Олег,
 Мужчина,
@@ -32,3 +32,4 @@ anolegkr@gmail.com
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
 
 Примеры работ:
+Скоро тут появятся проекты
