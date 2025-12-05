@@ -30,6 +30,8 @@ anolegkr@gmail.com
 Ключевые навыки:
 
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
+![Дополняется](https://img.shields.io/badge/-Дополняется-fcc525?style=for-the-badge&logoColor=47C5FB)
+
 
 Примеры работ:
 Скоро тут появятся проекты
