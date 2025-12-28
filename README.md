@@ -8,7 +8,7 @@
   Тут будет фото
 </div>
 
-![QA инженер / Python разработчик](https://img.shields.io/badge/-QA_инженер_/Python_разработчик-090909?style=for-the-badge&logoColor=47C5FB)
+![Python разработчик](https://img.shields.io/badge/-Python_разработчик-090909?style=for-the-badge&logoColor=47C5FB)
 
 Ан Олег,
 Мужчина,
