@@ -8,7 +8,11 @@
   Тут будет фото
 </div>
 
-![Python разработчик](https://img.shields.io/badge/-Python_разработчик-090909?style=for-the-badge&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
 
 Ан Олег,
 Мужчина,
